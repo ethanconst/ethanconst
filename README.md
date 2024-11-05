@@ -34,7 +34,7 @@ Bachelor’s Degree
 - Best practices in **CI/CD** for modern development workflows
 
 ### 📫 How to reach me  
-[LinkedIn](https://www.linkedin.com/in/ethanconstdev) • [Telegram](https://telegram.com/igor0x) • [Email](mailto:ethanconstdev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ethanconstdev) • [Telegram](https://t.me/igor0x) • [Email](mailto:ethanconstdev@gmail.com)
 
 ---
 
